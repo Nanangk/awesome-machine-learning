@@ -36,4 +36,6 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - $
 * [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - $
 * [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) - $
-* [Deep Learning Spesialization](https://www.coursera.org/specializations/deep-learning) - $
+* [Deep Learning Spesialization](https://www.coursera.org/specializations/deep-learning) - 
+* [Machine Learning Foundations (Great Learning)](https://www.greatlearning.in/academy/learn-for-free/courses/machine-learning-foundation) - free
+
